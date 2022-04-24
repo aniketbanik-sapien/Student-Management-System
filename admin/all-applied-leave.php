@@ -63,7 +63,7 @@ if(isset($_POST['rejected']))
   <thead>
     <tr>
       <th>Sr No.</th>
-      <th>Employee Name</th>
+      <th>Student Name</th> 
 	        <th>Academic Leave</th>
 	   <th>Medical Leave</th>
 	     <th>Casual Leave</th>

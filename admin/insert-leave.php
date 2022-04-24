@@ -1,7 +1,7 @@
 <?php
 session_start();
-include "authentication.php"
-$host="localhost";
+include "authentication.php";
+$host = "localhost";
 $username="root";
 $pass="";
 $db="ems";

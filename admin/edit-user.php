@@ -104,14 +104,14 @@ function formvalidation(){
       <div class="col-lg-10">
         <div class="radio">
           <label>
-            <input type="radio" name="role" id="role" value="admin" <?php if($data['role']=='admin'){echo "checked";}?>>
-           Admin
+            <input type="radio" name="role" id="role" value="teacher" <?php if($data['role']=='teacher'){echo "checked";}?>>
+           Teacher
           </label>
         </div>
         <div class="radio">
           <label>
-            <input type="radio" name="role" id="role" value="employee" <?php if($data['role']=='employee'){echo "checked";}?>>
-          Employee
+            <input type="radio" name="role" id="role" value="student" <?php if($data['role']=='student'){echo "checked";}?>>
+          Student
           </label>
         </div>
       </div>

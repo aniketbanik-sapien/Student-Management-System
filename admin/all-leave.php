@@ -13,13 +13,13 @@
 <?php include "header.php";?>
 <!------end header here --------->
 <div class="container">
-<h3>All Employee Leave Lists</h3>
+<h3>All Student and Teacher Leave Lists</h3>
 <table class="table table-striped table-hover ">
   <thead>
     <tr>
       <th>Sr No.</th>
-      <th>Employee Name</th>
-	        <th>Earning Leave</th>
+      <th>Student Name</th>
+	        <th>Academic Leave</th>
 	   <th>Medical Leave</th>
 	     <th>Casual Leave</th>
 		   <th>Valid From</th>
